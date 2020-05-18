@@ -9,7 +9,7 @@ eureka:
     prefer-ip-address: true
     instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
     #ip-address:
-nickName: world  你是我的最爱
+nickName: world  你是我的最爱  哇哈哈哈哈哈
 spring:
   #设置http编码
   http:
